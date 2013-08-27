@@ -1,2 +1,2 @@
-(# Ruby on Rails Tutorial: first app tool overview
+# Ruby on Rails Tutorial: first app tool overview
 This provides actions which lead the user through multiple tools for [*Ruby on Rails Tutorial*] (htto://rails.org/) by [Michael Hartl] (http://michaelhartl.com/).
